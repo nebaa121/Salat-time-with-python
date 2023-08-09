@@ -5,5 +5,4 @@ this is my first big project i tryed, and its not fully done, installah if i fin
 
   requrement can be installed py   pip install PySimpleGUI   and  pip install pyislam
 
-    and set the longtund and latitud of your city 
-
+and set the longtund and latitud of your city
